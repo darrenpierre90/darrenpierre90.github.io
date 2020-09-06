@@ -148,7 +148,7 @@ const openSourceSection = {
   //Note :  don't edit the githubToken
   githubToken: process.env.REACT_APP_GITHUB_ACCESS_TOKEN,
 
-  githubUserName: "darrenpie90",
+  githubUserName: "darrenpierre90",
   //Note :  no of open source projects you want to show.
   numberOfRepos: 3,
 };
@@ -192,35 +192,35 @@ const experienceSection = {
     {
       experienceTitle: "Teaching Assistant",
       experienceDesc:
-        "",
+        "Explained concepts in a clear and concise manner and generated learning goals and objectives for students.Supervised tutorial for undergraduate computer science courses to solidify student’s learning on new materials.Marked assignments and provide effective feedback that improved students comprehension of the course.Conducted weekly office hours to facilitate students with course materials, assignments and exam preparation that helped them to attain knowledge in different aspects of computer science",
       experienceDuration: "10/18-12/18",
-      experienceTags: ["Interns Pk", "1.5 month", "Remote"],
+      experienceTags: ["Education", "4 month", "Web Devolopment"],
     },
     {
       experienceTitle: "Cyber Security Big Data Analyst",
       experienceDesc:
-        "",
+        "Extended a set of statistics & reports that the organization can use in its various products.Communicated findings to both executives and technical analyst in a way that can influenced how an organization approaches challenges.Helped create/extend new tools that are used in analysis to analyze malware and give another indicator of compromised.Updated, repaired, modified and developed existing software and generic application",
       experienceDuration: "1/19-4/19",
-      experienceTags: ["Java","Cyber Security",""],
+      experienceTags: ["Java","Cyber Security","R&D"],
     },
     {
       experienceTitle: "First Year Connections Peer Mentor",
       experienceDesc:
-        "",
+        "Arranged weekly meetings with mutiple first year students.Adhered to the mentoring program guidelines outlined by the Mentoring Coordinator.Acted in accordance with role as an ambassador and representative of the Student Experience Office and Carleton University.Completed weekly meeting reports in a timely manner.Assisted in helping first year students in making a successful transition to university by preparing them to achieve their personal/academic goals.",
       experienceDuration: "10/19-12/19",
       experienceTags: ["Mentoring","Organization","Communication"],
     }, {
       experienceTitle: "Application Developer",
       experienceDesc:
-        "",
+        "Designed apps prototypes based on client specifications.Tested existing applications, identify deficiencies and offer solutions.Created dashboards using Dash (Python framework for building web applications.).Performed R&D on popular javascript data visualization libraries such as D3.js , recharts and ChartJS",
       experienceDuration: "5/19-1/20",
-      experienceTags: ["Java","Cyber Security",""],
+      experienceTags: ["Javascript","React","Neo4j"],
     }, {
       experienceTitle: "Technical Project Manager",
       experienceDesc:
         "Work collaboratively with other TPMs and Academic Lecturers to deliver the CAIS project and Bootcamp .Oversee CAIS Bootcamp participants in the completion of their final projects. Maintain and manage Carleton AI Github organization Help in other activities of the organization including hosting workshops, event organization, etc.",
       experienceDuration: "5-19-Current",
-      experienceTags: ["Java","Cyber Security",""],
+      experienceTags: ["Machine Learning","AI","Data science"],
     }
   ],
 };
