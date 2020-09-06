@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00af0b5eb53f6070316920c339de9595",
+    "revision": "7acf9bdd4838036b358e6a9b38112db7",
     "url": "/index.html"
   },
   {
-    "revision": "32eab55beff097a66aa4",
+    "revision": "c964ecd69f155e279c6c",
     "url": "/static/css/2.ffdfee16.chunk.css"
   },
   {
-    "revision": "ac083d31a7747ea481a8",
+    "revision": "1dcda8e0736edbe50854",
     "url": "/static/css/4.13fe2b0c.chunk.css"
   },
   {
-    "revision": "af9160e2d5724d9bc5bd",
+    "revision": "8263501ba5f3250a7190",
     "url": "/static/css/main.46399a82.chunk.css"
   },
   {
-    "revision": "32eab55beff097a66aa4",
-    "url": "/static/js/2.6ae97496.chunk.js"
+    "revision": "c964ecd69f155e279c6c",
+    "url": "/static/js/2.23a9e5ce.chunk.js"
   },
   {
     "revision": "573c03b54bf739ab0b9029188d0efb17",
-    "url": "/static/js/2.6ae97496.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.23a9e5ce.chunk.js.LICENSE.txt"
   },
   {
     "revision": "f5fe30d0cf8c603083b5",
@@ -32,20 +32,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/3.9e35701a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac083d31a7747ea481a8",
-    "url": "/static/js/4.52827b9d.chunk.js"
+    "revision": "1dcda8e0736edbe50854",
+    "url": "/static/js/4.4c80b231.chunk.js"
   },
   {
-    "revision": "af9160e2d5724d9bc5bd",
-    "url": "/static/js/main.795fe6dc.chunk.js"
+    "revision": "8263501ba5f3250a7190",
+    "url": "/static/js/main.2887bd9d.chunk.js"
   },
   {
-    "revision": "68aa32d64064997cba94",
-    "url": "/static/js/runtime-main.b5c9067c.js"
+    "revision": "ab4724b33fe649134b4b",
+    "url": "/static/js/runtime-main.db5e3f53.js"
   },
   {
     "revision": "3e7b4ed42120fe2c30460e8ad09f7070",
     "url": "/static/media/avatar.3e7b4ed4.jpeg"
+  },
+  {
+    "revision": "41863aa09de215b05408557053972480",
+    "url": "/static/media/avatar.41863aa0.JPG"
   },
   {
     "revision": "f971dd94f62c4662e732ea74d2561260",
