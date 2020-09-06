@@ -11,6 +11,7 @@ import emoji from "react-easy-emoji";
 /* 9. Contact Section */
 
 /* wrap your text in emoji("") if you want to show emoji in your text
+
 /*=====================
     1. Main App
     Desc: set what's in the document's head section
@@ -55,14 +56,6 @@ const bannerSection = {
   resumeLink:
     "https://drive.google.com/file/d/1xHMqe1EjfK9wxgPfalz_L499T3abw-AR/view?usp=sharing",
 };
-
-
-/*=====================
-    4. About Section
-    Desc: It's all about you!. this section is designed using the command 
-    line concept so it asked you to add the admin of the command line 
-    and 2 basic commands (i recommend you to use default commands).
-==========================*/
 
 /*=====================
     4. About Section
@@ -139,6 +132,7 @@ const skillsSection = {
 
   ],
 };
+
 /*=====================
     6. Open Source Section
     Desc: This section hlep you configure your github repos section 
