@@ -148,7 +148,7 @@ const openSourceSection = {
   //Note :  don't edit the githubToken
   githubToken: process.env.REACT_APP_GITHUB_ACCESS_TOKEN,
 
-  githubUserName: "darrenpierre90",
+  githubUserName: "darrenpie90",
   //Note :  no of open source projects you want to show.
   numberOfRepos: 3,
 };
